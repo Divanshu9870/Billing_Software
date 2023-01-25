@@ -1,0 +1,15 @@
+	 Welcome to dev Mini Mall
+ Bill Number:2662
+ Customer Name:ads
+ Phone Number:12345
+ Customer Email:@gmail.com
+================================================
+ Products			QTY		Price
+================================================
+Maggies		1		15
+
+================================================
+ Sub Amount:			Rs.5015.00
+ Tax Amount:			Rs.50.00
+ Total Amount:			Rs.5065.00
+================================================

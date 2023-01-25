@@ -1,0 +1,16 @@
+	 Welcome to dev Mini Mall
+ Bill Number:4602
+ Customer Name:vinay
+ Phone Number:12345
+ Customer Email:vinay@bb
+ ================================================
+ Products			QTY		Price
+ ================================================
+  Lee		1		4000
+  Lee		1		4000
+
+  ============================================
+ Sub Amount:			Rs.8000.00
+ Tax Amount:			Rs.40.00
+ Total Amount:			Rs.8040.00
+============================================

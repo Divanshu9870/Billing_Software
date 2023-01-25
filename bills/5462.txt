@@ -1,0 +1,20 @@
+	 Welcome to dev Mini Mall
+ Bill Number:5462
+ Customer Name:dev
+ Phone Number:12345
+ Customer Email:sdfsdfsdcs
+ ================================================
+ Products			QTY		Price
+ ================================================
+  Tomato Sauce		1		200
+  Tomato Sauce		1		200
+  Tomato Sauce		1		200
+  Tomato Sauce		1		200
+  Tomato Sauce		1		200
+  Tomato Sauce		1		200
+
+  ============================================
+ Sub Amount:			Rs.1200.00
+ Tax Amount:			Rs.10.00
+ Total Amount:			Rs.1210.00
+============================================

@@ -1,0 +1,18 @@
+	 Welcome to dev Mini Mall
+ Bill Number:7264
+ Customer Name:kirti
+ Phone Number:12345
+ Customer Email:kirti@gmail.com
+ ================================================
+ Products			QTY		Price
+ ================================================
+  yippee		5		60
+  Lee		1		4000
+  Lee		1		4000
+  Lee		1		4000
+
+  ============================================
+ Sub Amount:			Rs.12060.00
+ Tax Amount:			Rs.80.60
+ Total Amount:			Rs.12140.60
+============================================

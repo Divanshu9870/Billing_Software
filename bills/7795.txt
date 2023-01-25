@@ -1,0 +1,16 @@
+	 Welcome to dev Mini Mall
+ Bill Number:7795
+ Customer Name:dev
+ Phone Number:7060676767
+ Customer Email:dev@gmail.com
+ ================================================
+ Products			QTY		Price
+ ================================================
+  Oreo		1		25
+  Oreo		1		25
+
+  ============================================
+ Sub Amount:			Rs.50.00
+ Tax Amount:			Rs.0.25
+ Total Amount:			Rs.50.25
+============================================

@@ -1,0 +1,17 @@
+	 Welcome to dev Mini Mall
+ Bill Number:1609
+ Customer Name:dev
+ Phone Number:123456
+ Customer Email:Dev@gmail.com
+================================================
+ Products			QTY		Price
+================================================  Levis		1		5000
+  Levis		1		5000
+  Levis		1		5000
+  Levis		1		5000
+
+  ============================================
+ Sub Amount:			Rs.25000.00
+ Tax Amount:			Rs.200.00
+ Total Amount:			Rs.25200.00
+============================================

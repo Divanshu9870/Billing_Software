@@ -1,0 +1,16 @@
+	 Welcome to dev Mini Mall
+ Bill Number:9204
+ Customer Name:jai
+ Phone Number:12346
+ Customer Email:jai@gmail.ocom
+ ================================================
+ Products			QTY		Price
+ ================================================
+  Roadster		1		1000
+  Jack&Jones		1		1500
+
+  ============================================
+ Sub Amount:			Rs.2500.00
+ Tax Amount:			Rs.10.00
+ Total Amount:			Rs.2510.00
+============================================
